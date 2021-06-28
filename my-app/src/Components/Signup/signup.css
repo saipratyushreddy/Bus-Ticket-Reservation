@@ -1,0 +1,29 @@
+#button{
+    color: #d9534f;
+    background-color: white;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+#button_dis{
+    color: grey;
+    background-color: white;
+    height: 40px;
+    width: 100px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: default;
+}
+.input-box{
+    height: 40px;
+    border: 0.5px solid #d9d9d9;
+    border-radius: 2px;
+}
+#error{
+    font-size: 12px;
+    color: red;
+    font-style: italic;
+}

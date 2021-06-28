@@ -1,0 +1,8 @@
+#logo_header{
+    font-size: 40px;
+    font-weight: 900;
+    background: linear-gradient(to right, white 0%, #ffcccc 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    margin: 20px;
+}

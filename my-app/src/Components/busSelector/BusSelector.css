@@ -1,0 +1,32 @@
+#optionSelector{
+    width: 300px;
+    margin: 30px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#button{
+    color: #d9534f;
+    background-color: white;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+#nav{
+    display: inline;
+    background-color: whitesmoke;
+    color: black;
+    padding: 16px 110px;
+    font-size: 20px;
+}
+#nav_active{
+    display: inline;
+    background-color: #d9534f;
+    color: white;
+    padding: 16px 110px;
+    font-size: 20px;
+}

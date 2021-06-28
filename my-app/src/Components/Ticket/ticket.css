@@ -1,0 +1,38 @@
+#button{
+    color: #d9534f;
+    background-color: white;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bolder;
+}
+#nav{
+    display: inline;
+    background-color: whitesmoke;
+    color: black;
+    padding: 16px 110px;
+    font-size: 20px;
+}
+#nav_active{
+    display: inline;
+    background-color: #d9534f;
+    color: white;
+    padding: 16px 110px;
+    font-size: 20px;
+}
+#logo{
+    font-size: 40px;
+    font-weight: 900;
+    background: linear-gradient(to right, red 0%, orange 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    margin: 20px;
+}
+.ticket_table{
+    padding: 20px 45px;
+}
+.ticket_table1{
+    padding: 20px 32px;
+}
