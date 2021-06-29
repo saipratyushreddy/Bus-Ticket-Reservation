@@ -22,7 +22,7 @@ You will also see any lint errors in the console.
 
 ### `nodemon app.js`
 
-Goto my-app/Express in terminal an run the command
+Goto my-app/Express in terminal and run the command
 
 ### `npm test`
 
