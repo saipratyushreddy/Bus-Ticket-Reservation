@@ -2,7 +2,7 @@
 ## Bus Ticket Reservation Using MongoDB, ExpressJS, ReactJS &amp; NodeJS (MERN Stack).
 #### Homepage.
 ![1 home_page](https://user-images.githubusercontent.com/61265991/160647364-d33f5493-d992-4b6b-b44e-30510a19380e.jpg) 
-#### Page for SIgning Up.
+#### Page for Signing Up.
 ![2 signup](https://user-images.githubusercontent.com/61265991/160647604-2ad7f586-888b-4f96-a72d-c11f698e1c42.jpg) 
 #### After Login User Homepage.
 ![3 user_homepage](https://user-images.githubusercontent.com/61265991/160647608-ded5b485-df1b-4db8-8d82-cfa29dd13482.jpg)
